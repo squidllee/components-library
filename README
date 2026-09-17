@@ -1,0 +1,14 @@
+# The Library
+
+Some of these components come from open-source libraries found on the internet.
+Some are recreated from scratch and/or tweaked a bit from paid libraries.
+Some of these are shaders, effects, or animations put on top of some simple component like a literal box.
+
+Overall this library is mostly meant for me and serves my use cases and taste. Feel free to use it for yourself for no charge or even recognition required (though appreciated).
+
+If a component in this library comes from another library(like most of them are), then I will make sure to credit you below. No matter if open-source or a paid library that I just got inspiration from.
+If you want to add a component to the library just open a pull request. I'll look at it eventally and I promise I won't miss it. If I like it and I think it fits here then I'll merge it. If I don't like it I'll either tell you to tweak it just a bit or just close the pr. If you want that specific component real bad, then just fork this repo.
+
+## Acknoledgements
+
+tbd
